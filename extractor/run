@@ -1,0 +1,2 @@
+rm -r run.unl.pt
+node oaiextractor.js http://run.unl.pt/oai/request?
