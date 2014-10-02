@@ -22,6 +22,7 @@ function ListExt(obj,url,path){
     });
     this.path = path;
     this.num = 0;
+    this.fail = false;
     this.res = [];
 }
 
@@ -31,13 +32,10 @@ ListExt.prototype = {
     'storeList':
         function (path,data,index){
             var filename = path +'/list'+index+'.xml';
-            var aux = this;
             
             fs.writeFile(filename,data,function(err){
                 if(err)
                     console.log('Problems writting '+filename);
-                else
-                    console.log('Success writting '+ filename);
             });
         },
     
@@ -76,7 +74,7 @@ ListExt.prototype = {
                             else{
                                 var list = res['OAI-PMH'];
                                 
-                                if(list && aux.obj.type in list){
+                                if(!('error' in list)){
                                     list = list[aux.obj.type][0];
                                     
                                     storeList(path,body,index);
@@ -84,8 +82,13 @@ ListExt.prototype = {
                                     
                                     if(aux.obj.type === 'ListSets')
                                         aux.res = aux.res.concat(list.set);
-                                    else
-                                        aux.res = aux.res.concat(list.header);
+                                    else{
+                                        var arr = [];
+                                        
+                                        for(var i in list.header)
+                                            arr.push(list.header[i].identifier[0]);
+                                        aux.res = aux.res.concat(arr);
+                                    }
 
                                     if('resumptionToken' in list && '_' in list['resumptionToken'][0]){
                                         aux.obj.params['resumptionToken'] = list['resumptionToken'][0]['_'];
@@ -94,11 +97,20 @@ ListExt.prototype = {
                                                 delete aux.obj.params[i];
                                         aux.getList();
                                     }
-                                    else
+                                    else{
+                                        if('set' in aux.obj)
+                                            if(aux.res.length > 0)
+                                                aux.res = {
+                                                    'identifiers':aux.res,
+                                                    'name': aux.obj.set.setName
+                                                };
                                         aux.obj.callback(aux);
+                                    }
                                 }
                                 else{
                                     console.log(url + ' returned nill');
+                                    aux.fail = true;
+                                    aux.smth = url;
                                     aux.obj.callback(aux);
                                 }
                             }
