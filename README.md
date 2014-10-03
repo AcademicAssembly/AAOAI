@@ -1,6 +1,3 @@
-AAOAI
-=====
-
 Project AAOAI
 =============
 
