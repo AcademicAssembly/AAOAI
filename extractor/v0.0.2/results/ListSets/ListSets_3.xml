@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:39Z</responseDate>
+    <request verb="ListSets" resumptionToken="MTozMDB8Mjp8Mzp8NDp8NTo=">http://run.unl.pt/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>col_10362_1052</setSpec>
+            <setName>FCT: DCTB - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1053</setSpec>
+            <setName>FCT: DCV - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1054</setSpec>
+            <setName>FCT: DCV - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1376</setSpec>
+            <setName>FCT: Primavera</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1377</setSpec>
+            <setName>FCT: Verão</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1445</setSpec>
+            <setName>FCT: DCT - Ciências da Terra</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1446</setSpec>
+            <setName>FCT: DCT - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1448</setSpec>
+            <setName>FCT: DCT - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1532</setSpec>
+            <setName>FCT: DQ - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1533</setSpec>
+            <setName>FCT: DQ - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1593</setSpec>
+            <setName>FCT: UIED - Artigos em revista científica internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1642</setSpec>
+            <setName>FCT: UIED - Artigos em revista científica nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1679</setSpec>
+            <setName>FCT: IET - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1680</setSpec>
+            <setName>FCT: IET - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1681</setSpec>
+            <setName>FCT: IET - Enterprise and Work Innovation Studies</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1682</setSpec>
+            <setName>FCT: IET  - Working Paper Series</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1700</setSpec>
+            <setName>FCT: CTS - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1701</setSpec>
+            <setName>FCT: CTS - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1734</setSpec>
+            <setName>FCT: DEE - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1735</setSpec>
+            <setName>FCT: DEE - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1740</setSpec>
+            <setName>FCT: IEC - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1741</setSpec>
+            <setName>FCT: IEC - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1743</setSpec>
+            <setName>FCT: DEC - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1745</setSpec>
+            <setName>FCT: DEC - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1746</setSpec>
+            <setName>FCT: DEC - Capítulos de livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1747</setSpec>
+            <setName>FCT: DEC - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1748</setSpec>
+            <setName>FCT: DEC - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1753</setSpec>
+            <setName>FCT: DCEA - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1754</setSpec>
+            <setName>FCT: DCEA - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1756</setSpec>
+            <setName>FCT: DCEA - Capítulos de livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1757</setSpec>
+            <setName>FCT: DCEA - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1758</setSpec>
+            <setName>FCT: DCEA - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1759</setSpec>
+            <setName>FCT: DCEA - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1760</setSpec>
+            <setName>FCT: IET - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1788</setSpec>
+            <setName>FCT: IET - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1804</setSpec>
+            <setName>FCT: Lab - Materiais de Formação</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1824</setSpec>
+            <setName>FCT: Lab - Recursos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1852</setSpec>
+            <setName>FCT: DCSA - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1853</setSpec>
+            <setName>FCT: DCSA - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1854</setSpec>
+            <setName>FCT: DCSA - Capítulos de livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1855</setSpec>
+            <setName>FCT: DCSA - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1856</setSpec>
+            <setName>FCT: DCSA - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1904</setSpec>
+            <setName>FCT: DEMI - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2070</setSpec>
+            <setName>FCSH: CITI - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_1987</setSpec>
+            <setName>FCSH: CITI - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2112</setSpec>
+            <setName>ISEGI: CEGI - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2116</setSpec>
+            <setName>ISEGI: CEGI - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2117</setSpec>
+            <setName>ISEGI: CEGI - Capítulos de livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2120</setSpec>
+            <setName>ISEGI: CEGI - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2122</setSpec>
+            <setName>ISEGI: CEGI - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2126</setSpec>
+            <setName>ISEGI: CEGI - Livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2131</setSpec>
+            <setName>ISEGI: CEGI - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2140</setSpec>
+            <setName>ITQB: MMB - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2147</setSpec>
+            <setName>NSBE: EG - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2148</setSpec>
+            <setName>NSBE: EG - PhD Thesis</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2160</setSpec>
+            <setName>ISEGI - Dissertações de Mestrado em Gestão da Informação</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2161</setSpec>
+            <setName>ISEGI - Dissertações de Mestrado em Estatística e Gestão da Informação</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2166</setSpec>
+            <setName>NSBE: EG - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2179</setSpec>
+            <setName>NSBE: EG - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2182</setSpec>
+            <setName>FD - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2183</setSpec>
+            <setName>FD - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2188</setSpec>
+            <setName>FD - Artigos em revista nacional</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2189</setSpec>
+            <setName>NSBE: EG - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2191</setSpec>
+            <setName>FD - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2192</setSpec>
+            <setName>FD - Livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2193</setSpec>
+            <setName>FD - Capítulos de livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2194</setSpec>
+            <setName>NSBE: EG - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2195</setSpec>
+            <setName>NSBE: EG - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2196</setSpec>
+            <setName>FCSH: DF - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2199</setSpec>
+            <setName>FCSH: DF - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2200</setSpec>
+            <setName>NSBE: EG - MBA Thesis</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2201</setSpec>
+            <setName>FCSH: DF - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2202</setSpec>
+            <setName>FCSH: DF - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2204</setSpec>
+            <setName>FCSH: DH - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2205</setSpec>
+            <setName>FCSH: DH - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2206</setSpec>
+            <setName>FCSH: DH - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2207</setSpec>
+            <setName>FCSH: DH - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2208</setSpec>
+            <setName>FCSH: DGPR - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2209</setSpec>
+            <setName>FCSH: DGPR - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2211</setSpec>
+            <setName>FCSH: DGPR - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2213</setSpec>
+            <setName>ENSP: SO - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2216</setSpec>
+            <setName>ENSP: SO - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2219</setSpec>
+            <setName>NSBE: EG - Capítulos de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2220</setSpec>
+            <setName>ENSP: PAS - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2221</setSpec>
+            <setName>ENSP: PAS - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2222</setSpec>
+            <setName>ENSP: EE - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2223</setSpec>
+            <setName>ENSP: EE - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2239</setSpec>
+            <setName>FCSH: CRIA - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2243</setSpec>
+            <setName>FCSH: CRIA - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2244</setSpec>
+            <setName>FCSH: CRIA - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2245</setSpec>
+            <setName>FCSH: CRIA - Capítulos de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2246</setSpec>
+            <setName>FCSH: CRIA - Capítulos de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2248</setSpec>
+            <setName>FCSH: CRIA - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2250</setSpec>
+            <setName>FCSH: CRIA - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2258</setSpec>
+            <setName>ISEGI - Dissertações de Mestrado em Ciência e Sistemas de Informação Geográfica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2259</setSpec>
+            <setName>ISEGI - MSc Dissertations Geospatial Technologies (Erasmus-Mundus)</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2281</setSpec>
+            <setName>ISEGI - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2309</setSpec>
+            <setName>NSBE: EG - Working Papers</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2326</setSpec>
+            <setName>FCSH: DCC - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_2329</setSpec>
+            <setName>FCT: DM - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <resumptionToken completeListSize="1584" cursor="3">MTo0MDB8Mjp8Mzp8NDp8NTo=</resumptionToken>
+    </ListSets>
+</OAI-PMH>

@@ -1,0 +1,2 @@
+rm -r results
+node extractor http://run.unl.pt/oai/request? results

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:33Z</responseDate>
+    <request verb="ListSets" resumptionToken="MToxMDB8Mjp8Mzp8NDp8NTo=">http://run.unl.pt/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>com_10362_2269</setSpec>
+            <setName>FCSH: Instituto de Estudos de Literatura Tradicional</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2270</setSpec>
+            <setName>FCSH: Instituto de Estudos em torno do Modernismo</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2271</setSpec>
+            <setName>FCSH: Instituto de Filosofia da Linguagem</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2272</setSpec>
+            <setName>FCSH: Centro de Estudos Históricos da UNL</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2273</setSpec>
+            <setName>FCSH: Centro de História d´Aquém e d´Além-Mar</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2274</setSpec>
+            <setName>FCSH: Centro de História da Cultura</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2275</setSpec>
+            <setName>FCSH: Instituto de Estudos Medievais</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2276</setSpec>
+            <setName>FCSH: Instituto de História Contemporânea</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2278</setSpec>
+            <setName>FCSH: Centro de Estudos de Sociologia da Universidade Nova</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2279</setSpec>
+            <setName>FCSH: Centro de Estudos de Geografia e Planeamento Regional</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2280</setSpec>
+            <setName>FCSH: Instituto de Dinâmica do Espaço</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2746</setSpec>
+            <setName>FCM: Cirurgia e Morfologia Humana</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2756</setSpec>
+            <setName>FCM: Medicina Clínica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2764</setSpec>
+            <setName>FCM: Medicina da Mulher, Infância e Adolescência</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2768</setSpec>
+            <setName>FCM: Genética, Oncologia e Toxicologia Humana</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2773</setSpec>
+            <setName>FCM: Medicina Celular e Molecular</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2778</setSpec>
+            <setName>FCM: Ciências Funcionais e Alvos Terapêuticos</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2780</setSpec>
+            <setName>FCM: Saúde das Populações</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2792</setSpec>
+            <setName>FCM: Farmacologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2793</setSpec>
+            <setName>FCM: Fisiologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2795</setSpec>
+            <setName>FCM: Fisiopatologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2796</setSpec>
+            <setName>FCM: Medicina da Imagem</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2798</setSpec>
+            <setName>FCM: Morfologia Normal</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2799</setSpec>
+            <setName>FCM: Cirurgia Geral</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2800</setSpec>
+            <setName>FCM: Cirurgia Digestiva</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2801</setSpec>
+            <setName>FCM: Cirurgia Plástica e Reconstrutiva</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2802</setSpec>
+            <setName>FCM: Cirurgia Vascular</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2806</setSpec>
+            <setName>FCM: Oftalmologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2808</setSpec>
+            <setName>FCM: Ortopedia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2809</setSpec>
+            <setName>FCM: Otorrinolaringologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2811</setSpec>
+            <setName>FCM: Urologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2812</setSpec>
+            <setName>FCM: Anatomia Patológica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2814</setSpec>
+            <setName>FCM: Bioética</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2815</setSpec>
+            <setName>FCM: Genética</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2816</setSpec>
+            <setName>FCM:  Medicina Legal e Toxicologia Forense</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2818</setSpec>
+            <setName>FCM: Oncologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2822</setSpec>
+            <setName>FCM: Biologia Celular</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2824</setSpec>
+            <setName>FCM: Bioquímica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2826</setSpec>
+            <setName>FCM: Embriologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2828</setSpec>
+            <setName>FCM:  Histologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2830</setSpec>
+            <setName>FCM: Imunologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2847</setSpec>
+            <setName>FCM: Cardiologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2852</setSpec>
+            <setName>FCM: Endocrinologia, Doenças do Metabolismo e da Nutrição</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2853</setSpec>
+            <setName>FCM: Geriatria</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2854</setSpec>
+            <setName>FCM: Pneumologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2855</setSpec>
+            <setName>FCM: Medicina Física e Reabilitação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2856</setSpec>
+            <setName>FCM: Microbiologia e Parasitologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2858</setSpec>
+            <setName>FCM: Neurologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2859</setSpec>
+            <setName>FCM: Nefrologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2863</setSpec>
+            <setName>FCM: Obstetrícia e Ginecologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2865</setSpec>
+            <setName>FCM: Pediatria</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2868</setSpec>
+            <setName>FCM: Cardiologia Pediátrica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2871</setSpec>
+            <setName>FCM: Bioestatística</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2873</setSpec>
+            <setName>FCM: História da Medicina</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2874</setSpec>
+            <setName>FCM: Medicina Geral e Familiar</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2875</setSpec>
+            <setName>FCM: Educação em Saúde</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2877</setSpec>
+            <setName>FCM: Psicologia Médica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2879</setSpec>
+            <setName>FCM: Saúde Mental e Psiquiatria</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2881</setSpec>
+            <setName>FCM: Psiquiatria da Infância e da Adolescência</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2883</setSpec>
+            <setName>FCM: Saúde Pública</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2884</setSpec>
+            <setName>FCM: Políticas e Serviços de Saúde</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3238</setSpec>
+            <setName>FCM: Centro de Estudos de Doenças Crónicas</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3239</setSpec>
+            <setName>FCM: Centro de Investigação em Genética Molecular Humana</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3387</setSpec>
+            <setName>ITQB: Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3388</setSpec>
+            <setName>ITQB: Bacterial Energy Metabolism</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3393</setSpec>
+            <setName>ITQB: Plant Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3394</setSpec>
+            <setName>ITQB: Biology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3395</setSpec>
+            <setName>ITQB: Technology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3396</setSpec>
+            <setName>ITQB: Biological Energy Transduction</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3397</setSpec>
+            <setName>ITQB: Membrane Protein Crystallography</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3399</setSpec>
+            <setName>ITQB: Microbial &amp; Enzyme Technology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3400</setSpec>
+            <setName>ITQB: Molecular Genetics of Microbial Resistance</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3401</setSpec>
+            <setName>ITQB: Molecular Interactions and NMR</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3402</setSpec>
+            <setName>ITQB: Molecular Simulation</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3403</setSpec>
+            <setName>ITQB: Mossbaüer Spectroscopy</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3404</setSpec>
+            <setName>ITQB: Protein Modelling</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3405</setSpec>
+            <setName>ITQB: Raman Spectroscopy of Metalloproteins</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3406</setSpec>
+            <setName>ITQB: Structural Biology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3407</setSpec>
+            <setName>ITQB: Structural Genomics</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3545</setSpec>
+            <setName>ITQB: Bacterial Cell Biology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3546</setSpec>
+            <setName>ITQB: Bacterial Cell Surfaces and Pathogenesis</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3547</setSpec>
+            <setName>ITQB: Bacterial Membrane Proteomics</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3548</setSpec>
+            <setName>ITQB: Bacterial Signalling</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3549</setSpec>
+            <setName>ITQB: Cell Physiology and NMR</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3550</setSpec>
+            <setName>ITQB: Cell Signaling in Drosophila</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3551</setSpec>
+            <setName>ITQB: Control of Gene Expression</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3552</setSpec>
+            <setName>ITQB: Glycobiology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3553</setSpec>
+            <setName>ITQB: Infection Biology</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3554</setSpec>
+            <setName>ITQB: Lactic Acid Bacteria and In Vivo NMR</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3555</setSpec>
+            <setName>ITQB: Microbial Development</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3556</setSpec>
+            <setName>ITQB: Molecular Genetics</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3557</setSpec>
+            <setName>ITQB: Bioinorganic Chemistry and Peptide Design</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3558</setSpec>
+            <setName>ITQB: Bioorganic Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3559</setSpec>
+            <setName>ITQB: Colloids Polymers and Surfaces</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3560</setSpec>
+            <setName>ITQB: Coordination and Supramolecular Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3561</setSpec>
+            <setName>ITQB: Homogeneous Catalysis</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3562</setSpec>
+            <setName>ITQB: Micro-heterogeneous Systems</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3563</setSpec>
+            <setName>ITQB: Organic Synthesis</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3564</setSpec>
+            <setName>ITQB: Organometallic Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_3565</setSpec>
+            <setName>ITQB: Single Molecule Processes</setName>
+        </set>
+        <resumptionToken completeListSize="1584" cursor="1">MToyMDB8Mjp8Mzp8NDp8NTo=</resumptionToken>
+    </ListSets>
+</OAI-PMH>

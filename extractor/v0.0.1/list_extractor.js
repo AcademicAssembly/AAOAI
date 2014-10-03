@@ -53,7 +53,7 @@ ListExt.prototype = {
                     'method': 'GET',
                     'headers':{
                         'user-agent': 'Guto',
-                        'accept': 'application/json',
+                        'accept': 'application/json'
                     },
                     'uri': url
                 };

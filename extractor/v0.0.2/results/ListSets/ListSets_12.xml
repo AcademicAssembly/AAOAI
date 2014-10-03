@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:50Z</responseDate>
+    <request verb="ListSets" resumptionToken="MToxMjAwfDI6fDM6fDQ6fDU6">http://run.unl.pt/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>col_10362_6431</setSpec>
+            <setName>FCSH: DHA - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6432</setSpec>
+            <setName>FCSH: DHA - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6433</setSpec>
+            <setName>FCSH: DLCLM - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6435</setSpec>
+            <setName>FCSH: DLCLM - Relatórios da disciplina</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6436</setSpec>
+            <setName>FCSH: DLCLM - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6438</setSpec>
+            <setName>FCSH: DLCLM - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6439</setSpec>
+            <setName>FCSH: DL - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6440</setSpec>
+            <setName>FCSH: DL - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6441</setSpec>
+            <setName>FCSH: DL - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6442</setSpec>
+            <setName>FCSH: DL - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6443</setSpec>
+            <setName>FCSH: DL - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6444</setSpec>
+            <setName>FCSH: DL - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6445</setSpec>
+            <setName>FCSH: DL - Relatórios da disciplina</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6446</setSpec>
+            <setName>FCSH: DL - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6447</setSpec>
+            <setName>FCSH: DL - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6448</setSpec>
+            <setName>FCSH: DL - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6449</setSpec>
+            <setName>FCSH: DL - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6450</setSpec>
+            <setName>FCSH: DS - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6451</setSpec>
+            <setName>FCSH: DS - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6452</setSpec>
+            <setName>FCSH: DS - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6453</setSpec>
+            <setName>FCSH: DS - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6454</setSpec>
+            <setName>FCSH: DS - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6455</setSpec>
+            <setName>FCSH: DS - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6456</setSpec>
+            <setName>FCSH: DS - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6457</setSpec>
+            <setName>FCSH: DS - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6458</setSpec>
+            <setName>FCSH: DS - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6459</setSpec>
+            <setName>FCSH: DS - Relatórios da disciplina</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6461</setSpec>
+            <setName>FCSH: CETAPS - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6462</setSpec>
+            <setName>FCSH: CETAPS - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6463</setSpec>
+            <setName>FCSH: CETAPS - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6464</setSpec>
+            <setName>FCSH: CETAPS - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6465</setSpec>
+            <setName>FCSH: CETAPS - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6466</setSpec>
+            <setName>FCSH: CETAPS - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6467</setSpec>
+            <setName>FCSH: CETAPS - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6468</setSpec>
+            <setName>FCSH: CETAPS - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6469</setSpec>
+            <setName>FCSH: CETAPS - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6470</setSpec>
+            <setName>FCSH: CETAPS - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6471</setSpec>
+            <setName>FCSH: CETAPS - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6472</setSpec>
+            <setName>FCSH: CEGPR - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6473</setSpec>
+            <setName>FCSH: CEGPR - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6474</setSpec>
+            <setName>FCSH: CEGPR - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6475</setSpec>
+            <setName>FCSH: CEGPR - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6476</setSpec>
+            <setName>FCSH: CEGPR - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6477</setSpec>
+            <setName>FCSH: CEGPR - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6478</setSpec>
+            <setName>FCSH: CEGPR - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6479</setSpec>
+            <setName>FCSH: CEGPR - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6480</setSpec>
+            <setName>FCSH: CEGPR - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6481</setSpec>
+            <setName>FCSH: CEGPR - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6482</setSpec>
+            <setName>FCSH: CEGPR - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6483</setSpec>
+            <setName>FCSH: CESNOVA - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6484</setSpec>
+            <setName>FCSH: CESNOVA - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6485</setSpec>
+            <setName>FCSH: CESNOVA - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6486</setSpec>
+            <setName>FCSH: CESNOVA - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6487</setSpec>
+            <setName>FCSH: CESEM - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6488</setSpec>
+            <setName>FCSH: CESEM - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6489</setSpec>
+            <setName>FCSH: CESEM - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6490</setSpec>
+            <setName>FCSH: CESEM - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6491</setSpec>
+            <setName>FCSH: CESEM - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6492</setSpec>
+            <setName>FCSH: CESEM - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6493</setSpec>
+            <setName>FCSH: CESEM - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6494</setSpec>
+            <setName>FCSH: CESEM - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6495</setSpec>
+            <setName>FCSH: CESEM - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6496</setSpec>
+            <setName>FCSH: CESEM - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6497</setSpec>
+            <setName>FCSH: CEHUNL - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6498</setSpec>
+            <setName>FCSH: CEHUNL - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6499</setSpec>
+            <setName>FCSH: CEHUNL - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6500</setSpec>
+            <setName>FCSH: CEHUNL - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6501</setSpec>
+            <setName>FCSH: CEHUNL - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6502</setSpec>
+            <setName>FCSH: CEHUNL - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6503</setSpec>
+            <setName>FCSH: CEHUNL - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6504</setSpec>
+            <setName>FCSH: CEHUNL - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6505</setSpec>
+            <setName>FCSH: CEHUNL - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6506</setSpec>
+            <setName>FCSH: CEHUNL - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6507</setSpec>
+            <setName>FCSH: CEIL - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6508</setSpec>
+            <setName>FCSH: CEIL - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6509</setSpec>
+            <setName>FCSH: CEIL - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6510</setSpec>
+            <setName>FCSH: CEIL - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6511</setSpec>
+            <setName>FCSH: CEIL - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6512</setSpec>
+            <setName>FCSH: CEIL - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6513</setSpec>
+            <setName>FCSH: CEIL - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6514</setSpec>
+            <setName>FCSH: CEIL - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6515</setSpec>
+            <setName>FCSH: CEIL - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6516</setSpec>
+            <setName>FCSH: CHC - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6517</setSpec>
+            <setName>FCSH: CHAM - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6518</setSpec>
+            <setName>FCSH: CHAM - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6519</setSpec>
+            <setName>FCSH: CHAM - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6520</setSpec>
+            <setName>FCSH: CHAM - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6521</setSpec>
+            <setName>FCSH: CHAM - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6522</setSpec>
+            <setName>FCSH: CHAM - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6523</setSpec>
+            <setName>FCSH: CHAM - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6525</setSpec>
+            <setName>FCSH: CHAM - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6526</setSpec>
+            <setName>FCSH: CIMJ - Capítulo de livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6527</setSpec>
+            <setName>FCSH: CIMJ - Capítulo de livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6528</setSpec>
+            <setName>FCSH: CIMJ - Documentos de conferências internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6529</setSpec>
+            <setName>FCSH: CIMJ - Documentos de conferências nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6530</setSpec>
+            <setName>FCSH: CIMJ - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6531</setSpec>
+            <setName>FCSH: CIMJ - Livros internacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6532</setSpec>
+            <setName>FCSH: CIMJ - Livros nacionais</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6533</setSpec>
+            <setName>FCSH: CIMJ - Dissertações de Mestrado</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_6534</setSpec>
+            <setName>FCSH: CIMJ - Teses de Doutoramento</setName>
+        </set>
+        <resumptionToken completeListSize="1584" cursor="12">MToxMzAwfDI6fDM6fDQ6fDU6</resumptionToken>
+    </ListSets>
+</OAI-PMH>

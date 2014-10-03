@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:44Z</responseDate>
+    <request verb="ListSets" resumptionToken="MTo3MDB8Mjp8Mzp8NDp8NTo=">http://run.unl.pt/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>col_10362_3414</setSpec>
+            <setName>ITQB: PBFS - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3415</setSpec>
+            <setName>ITQB: PBFS - Livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3416</setSpec>
+            <setName>ITQB: PBFS - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3417</setSpec>
+            <setName>ITQB: PBFS - Capítulos de livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3418</setSpec>
+            <setName>ITQB: PBFS - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3425</setSpec>
+            <setName>ITQB: BEM - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3426</setSpec>
+            <setName>ITQB: BEM - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3427</setSpec>
+            <setName>ITQB: BEM - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3428</setSpec>
+            <setName>ITQB: BEM - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3429</setSpec>
+            <setName>ITQB: BEM - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3430</setSpec>
+            <setName>ITQB: BEM - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3431</setSpec>
+            <setName>ITQB: BET - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3432</setSpec>
+            <setName>ITQB: BET - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3433</setSpec>
+            <setName>ITQB: BET - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3434</setSpec>
+            <setName>ITQB: BET - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3435</setSpec>
+            <setName>ITQB: BET - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3436</setSpec>
+            <setName>ITQB: BET - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3437</setSpec>
+            <setName>ITQB: GSL - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3438</setSpec>
+            <setName>ITQB: GSL - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3439</setSpec>
+            <setName>ITQB: GSL - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3440</setSpec>
+            <setName>ITQB: GSL - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3441</setSpec>
+            <setName>ITQB: GSL - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3442</setSpec>
+            <setName>ITQB: GSL - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3443</setSpec>
+            <setName>ITQB: IMAC - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3444</setSpec>
+            <setName>ITQB: IMAC - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3445</setSpec>
+            <setName>ITQB: IMAC - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3446</setSpec>
+            <setName>ITQB: IMAC - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3447</setSpec>
+            <setName>ITQB: IMAC - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3448</setSpec>
+            <setName>ITQB: IMAC - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3449</setSpec>
+            <setName>ITQB: IBN - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3450</setSpec>
+            <setName>ITQB: IBN - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3451</setSpec>
+            <setName>ITQB: IBN - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3452</setSpec>
+            <setName>ITQB: IBN - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3453</setSpec>
+            <setName>ITQB: IBN - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3454</setSpec>
+            <setName>ITQB: IBN - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3455</setSpec>
+            <setName>ITQB: MPC - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3456</setSpec>
+            <setName>ITQB: MPC - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3457</setSpec>
+            <setName>ITQB: MPC - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3458</setSpec>
+            <setName>ITQB: MPC - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3459</setSpec>
+            <setName>ITQB: MPC - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3460</setSpec>
+            <setName>ITQB: MPC - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3461</setSpec>
+            <setName>ITQB: MET - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3462</setSpec>
+            <setName>ITQB: MET - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3464</setSpec>
+            <setName>ITQB: MET - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3465</setSpec>
+            <setName>ITQB: MET - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3466</setSpec>
+            <setName>ITQB: MET - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3495</setSpec>
+            <setName>ITQB: MET - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3496</setSpec>
+            <setName>ITQB: MGMR - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3497</setSpec>
+            <setName>ITQB: MGMR - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3498</setSpec>
+            <setName>ITQB: MGMR - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3499</setSpec>
+            <setName>ITQB: MGMR - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3500</setSpec>
+            <setName>ITQB: MGMR - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3501</setSpec>
+            <setName>ITQB: MGMR - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3502</setSpec>
+            <setName>ITQB: MIN - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3503</setSpec>
+            <setName>ITQB: MIN - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3504</setSpec>
+            <setName>ITQB: MIN - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3505</setSpec>
+            <setName>ITQB: MIN - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3506</setSpec>
+            <setName>ITQB: MIN - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3507</setSpec>
+            <setName>ITQB: MIN - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3508</setSpec>
+            <setName>ITQB: MS - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3509</setSpec>
+            <setName>ITQB: MS - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3510</setSpec>
+            <setName>ITQB: MS - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3511</setSpec>
+            <setName>ITQB: MS - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3512</setSpec>
+            <setName>ITQB: MS - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3513</setSpec>
+            <setName>ITQB: MS - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3514</setSpec>
+            <setName>ITQB: MSP - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3515</setSpec>
+            <setName>ITQB: MSP - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3516</setSpec>
+            <setName>ITQB: MSP - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3517</setSpec>
+            <setName>ITQB: MSP - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3518</setSpec>
+            <setName>ITQB: MSP - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3519</setSpec>
+            <setName>ITQB: MSP - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3520</setSpec>
+            <setName>ITQB: PM - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3521</setSpec>
+            <setName>ITQB: PM - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3522</setSpec>
+            <setName>ITQB: PM - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3523</setSpec>
+            <setName>ITQB: PM - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3524</setSpec>
+            <setName>ITQB: PM - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3525</setSpec>
+            <setName>ITQB: PM - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3526</setSpec>
+            <setName>ITQB: RSM - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3527</setSpec>
+            <setName>ITQB: RSM - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3528</setSpec>
+            <setName>ITQB: RSM - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3529</setSpec>
+            <setName>ITQB: RSM - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3530</setSpec>
+            <setName>ITQB: RSM - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3531</setSpec>
+            <setName>ITQB: RSM - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3532</setSpec>
+            <setName>ITQB: SB - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3533</setSpec>
+            <setName>ITQB: SB - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3534</setSpec>
+            <setName>ITQB: SB - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3535</setSpec>
+            <setName>ITQB: SB - Book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3536</setSpec>
+            <setName>ITQB: SB - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3538</setSpec>
+            <setName>ITQB: SB - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3539</setSpec>
+            <setName>ITQB: SG - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3540</setSpec>
+            <setName>ITQB: SG - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3541</setSpec>
+            <setName>ITQB: SG - Livros</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3542</setSpec>
+            <setName>ITQB: SG - MA Dissertations</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3543</setSpec>
+            <setName>ITQB: SG - Part of book or chapter of book</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3544</setSpec>
+            <setName>ITQB: SG - PhD Theses</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3568</setSpec>
+            <setName>FCSH: DA - Teses de Doutoramento</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3572</setSpec>
+            <setName>FCT: DM - Relatórios técnicos</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3601</setSpec>
+            <setName>ITQB: PECM - Artigos em revista internacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3602</setSpec>
+            <setName>ITQB: PECM - Artigos em revista nacional com arbitragem científica</setName>
+        </set>
+        <set>
+            <setSpec>col_10362_3603</setSpec>
+            <setName>ITQB: PECM - Book</setName>
+        </set>
+        <resumptionToken completeListSize="1584" cursor="7">MTo4MDB8Mjp8Mzp8NDp8NTo=</resumptionToken>
+    </ListSets>
+</OAI-PMH>

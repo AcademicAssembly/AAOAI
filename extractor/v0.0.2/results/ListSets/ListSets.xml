@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:33Z</responseDate>
+    <request verb="ListSets">http://run.unl.pt/oaiextended/request</request>
+    <ListSets>
+        <set>
+            <setSpec>com_10362_10</setSpec>
+            <setName>FCT R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_14</setSpec>
+            <setName>FCT: Unidade de Investigação Educação e Desenvolvimento</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_410</setSpec>
+            <setName>Faculdade de Ciências e Tecnologia (FCT)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_411</setSpec>
+            <setName>FCT: Departamento de Ciências e Engenharia do Ambiente</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_412</setSpec>
+            <setName>FCT: Departamento de Ciência dos Materiais</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_413</setSpec>
+            <setName>FCT: Departamento de Ciências da Terra</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_414</setSpec>
+            <setName>FCT: Departamento de Ciências Sociais Aplicadas</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_415</setSpec>
+            <setName>FCT: Departamento de Engenharia Civil</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_416</setSpec>
+            <setName>FCT: Departamento de Engenharia Electrotécnica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_417</setSpec>
+            <setName>FCT: Departamento de Engenharia Mecânica e Industrial</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_418</setSpec>
+            <setName>FCT: Departamento de Física</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_419</setSpec>
+            <setName>FCT: Departamento de Informática</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_420</setSpec>
+            <setName>FCT: Departamento de Matemática</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_421</setSpec>
+            <setName>FCT: Departamento de Química</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_422</setSpec>
+            <setName>FCT: Departamento de Conservação e Restauro</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_423</setSpec>
+            <setName>FCT: Departamento de Ciências da Vida</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_424</setSpec>
+            <setName>FCT: Departamento de Ciências e Tecnologia da Biomassa (ex-GDEH)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_425</setSpec>
+            <setName>FCT: Centro de Física e Investigação Tecnológica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_426</setSpec>
+            <setName>FCT: Centro de Investigação em Ciência e Engenharia Geológica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_427</setSpec>
+            <setName>FCT: Centro de Inteligência Artificial</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_428</setSpec>
+            <setName>FCT: Centro Inter Universitário da História da Ciência e da Tecnologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_429</setSpec>
+            <setName>FCT: Centro de Investigação em Ambiente e Sustentabilidade</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_430</setSpec>
+            <setName>FCT: CENIMAT - Centro de Investigação de Materiais</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_431</setSpec>
+            <setName>FCT: Centro de Informática e Tecnologias da Informação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_432</setSpec>
+            <setName>FCT: Centro de Matemática e Aplicações</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_433</setSpec>
+            <setName>FCT: Centro de Química Fina e Biotecnologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_434</setSpec>
+            <setName>FCT: Centro de Recursos Microbiológicos</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_435</setSpec>
+            <setName>FCT: Centro de Tecnologia e Sistemas</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_436</setSpec>
+            <setName>FCT: Centro de Investigação em Inovação Empresarial e do Trabalho</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_437</setSpec>
+            <setName>FCT: Unidade de Biotecnologia Ambiental</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_438</setSpec>
+            <setName>FCT: Centro de Investigação em Estruturas e Construção</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_439</setSpec>
+            <setName>FCT: Unidade de Investigação em Engenharia Mecânica e Industrial</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_440</setSpec>
+            <setName>FCT: Centro do Vidro e Cerâmica para as Artes</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_1006</setSpec>
+            <setName>FCT Lab.elearning</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_1298</setSpec>
+            <setName>FCT: Objectos de aprendizagem</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_1375</setSpec>
+            <setName>FCT: Comunidade para testes</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_1699</setSpec>
+            <setName>FCT: Centro de Física Atómica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_1967</setSpec>
+            <setName>Faculdade de Ciências Sociais e Humanas (FCSH)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2060</setSpec>
+            <setName>Nova School of Business and Economics (NSBE)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2061</setSpec>
+            <setName>Faculdade de Ciências Médicas (FCM)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2062</setSpec>
+            <setName>Faculdade de Direito (FD)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2063</setSpec>
+            <setName>Instituto Superior de Estatística e Gestão de Informação (ISEGI)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2064</setSpec>
+            <setName>Instituto de Tecnologia Química e Biológica (ITQB)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2065</setSpec>
+            <setName>Instituto de Higiene e Medicina Tropical (IHMT)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2066</setSpec>
+            <setName>Escola Nacional de Saúde Pública (ENSP)</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2068</setSpec>
+            <setName>FCSH R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2069</setSpec>
+            <setName>FCSH: Centro de Investigação Tecnológica e Interactiva</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2083</setSpec>
+            <setName>FCT: Sub comunidade para teste</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2084</setSpec>
+            <setName>FCM Áreas de Ensino e Investigação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2085</setSpec>
+            <setName>FCT Departamentos</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2086</setSpec>
+            <setName>FCM R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2087</setSpec>
+            <setName>ENSP Departamentos</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2088</setSpec>
+            <setName>ENSP R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2089</setSpec>
+            <setName>FCSH Departamentos</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2094</setSpec>
+            <setName>ITQB R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2096</setSpec>
+            <setName>ISEGI: Centro de Estatística e Gestão de Informação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2097</setSpec>
+            <setName>IHMT - Unidades de Ensino e Investigação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2110</setSpec>
+            <setName>ITQB: Biological Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2111</setSpec>
+            <setName>ITQB: Metalloenzymes and Molecular Bioenergetics</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2113</setSpec>
+            <setName>ITQB: Protein Biochemistry, Folding &amp; Stability</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2114</setSpec>
+            <setName>ITQB: Biomolecular NMR</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2121</setSpec>
+            <setName>ITQB: Genomics and Stress Laboratory</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2124</setSpec>
+            <setName>NSBE: Economia e Gestão</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2128</setSpec>
+            <setName>ITQB: Inorganic Biochemistry and NMR</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2130</setSpec>
+            <setName>NSBE: R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2134</setSpec>
+            <setName>ITQB: Industry and Medicine Applied Crystallography</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2136</setSpec>
+            <setName>NSBE: Economia e Gestão</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2138</setSpec>
+            <setName>NSBE: INOVA</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2167</setSpec>
+            <setName>ENSP: Área Disciplinar de Saúde Pública - Saúde Ocupacional</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2168</setSpec>
+            <setName>ENSP: Área Disciplinar de Saúde Pública - Políticas e Administração da Saúde</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2169</setSpec>
+            <setName>FCSH: Departamento de História</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2171</setSpec>
+            <setName>FCSH: Departamento de Sociologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2184</setSpec>
+            <setName>FCSH: Departamento de Filosofia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2185</setSpec>
+            <setName>ENSP: Área Disciplinar de Saúde Pública - Epidemiologia e Estatística</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2186</setSpec>
+            <setName>FCSH: Departamento de Geografia e Planeamento Regional</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2187</setSpec>
+            <setName>ENSP: Área Disciplinar de Saúde Pública - Gestão de Organizações e Serviços de Saúde</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2190</setSpec>
+            <setName>ENSP: Produção científica</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2197</setSpec>
+            <setName>FD R&amp;D Units</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2203</setSpec>
+            <setName>FD: CPIC - Centro de Estudos em Propriedade Intelectual e Concorrência</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2210</setSpec>
+            <setName>FD: CEDIS - Centro de Investigação &amp; Desenvolvimento sobre Direito e Sociedade da FDUNL</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2212</setSpec>
+            <setName>FD: OLP - Observatório da Legislação Portuguesa</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2215</setSpec>
+            <setName>FD: SPEED - Seminário Permanente Sobre o Estado e o Estudo do Direito</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2238</setSpec>
+            <setName>FCSH: Centro em Rede de Investigação em Antropologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2247</setSpec>
+            <setName>FCSH: Departamento de Antropologia</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2249</setSpec>
+            <setName>FCSH: Departamento de Ciências da Comunicação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2251</setSpec>
+            <setName>FCSH: Departamento de Ciências da Educação</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2252</setSpec>
+            <setName>FCSH: Departamento de Ciências Musicais</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2253</setSpec>
+            <setName>FCSH: Departamento de Estudos Políticos</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2254</setSpec>
+            <setName>FCSH: Departamento de Estudos Portugueses</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2255</setSpec>
+            <setName>FCSH: Departamento de História da Arte</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2256</setSpec>
+            <setName>FCSH: Departamento de Línguas, Culturas e Literaturas Modernas</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2257</setSpec>
+            <setName>FCSH: Departamento de Linguística</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2261</setSpec>
+            <setName>FCSH: Centro de Investigação Media e Jornalismo</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2262</setSpec>
+            <setName>FCSH: Centro de Linguística da UNL</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2263</setSpec>
+            <setName>FCSH: Centro de Estudos de Sociologia e Estética Musical</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2264</setSpec>
+            <setName>FCSH: Instituto de História da Arte</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2265</setSpec>
+            <setName>FCSH: Instituto de Etnomusicologia - Centro de Estudos de Música e Dança</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2266</setSpec>
+            <setName>FCSH: Centro de Estudos sobre o Imaginário Literário</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2267</setSpec>
+            <setName>FCSH: Centre for English, Translation, and Anglo-Portuguese Studies - pólo FCSH</setName>
+        </set>
+        <set>
+            <setSpec>com_10362_2268</setSpec>
+            <setName>FCSH: Instituto de Estudos Portugueses</setName>
+        </set>
+        <resumptionToken completeListSize="1584" cursor="0">MToxMDB8Mjp8Mzp8NDp8NTo=</resumptionToken>
+    </ListSets>
+</OAI-PMH>

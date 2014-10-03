@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:33Z</responseDate>
+    <request verb="Identify">http://run.unl.pt/oaiextended/request</request>
+    <Identify>
+        <repositoryName>RUN</repositoryName>
+        <baseURL>http://run.unl.pt/oaiextended/request</baseURL>
+        <protocolVersion>2.0</protocolVersion>
+        <adminEmail>repositorio@fct.unl.pt</adminEmail>
+        <earliestDatestamp>2006-03-15T11:42:04Z</earliestDatestamp>
+        <deletedRecord>persistent</deletedRecord>
+        <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
+        <description><XOAIDescription xmlns="http://www.lyncode.com/XOAIConfiguration">XOAI: OAI-PMH Java Toolkit</XOAIDescription></description>
+    </Identify>
+</OAI-PMH>
