@@ -15,4 +15,8 @@ The requirements and objectives or this project are:
 Team composed by:
 	Project manager and Developer: Carlos Pinto Machado(AAMaster)
 
-Project Status: Development of extractor
+Project Status: Development of second version of extractor
+
+Software requirements:
+- Node Js
+- Node Modules: fs,request,xml2js
