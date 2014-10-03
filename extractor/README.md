@@ -24,7 +24,7 @@ Development of viable and more efficient extractor.
 
 Observations:
 	- It Gets all the information as the early version, but it is unsorted.
-	- It is seriously faster (circa 20 to 30 times) in our use case, but is less intensive.
+	- It is seriously faster (circa 20 to 30 times) in our use case, but is less intensive. Having scored 1m 5s in the last test.
 	- Has lesser redundacy and has no repetitions on a file level.
 	- Ignores the concept of empty community, because it gets identifiers and records all packaged in many unsorted files.
 	- Added the selective folder parameter ( as you can see in tests)
