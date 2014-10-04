@@ -1,7 +1,7 @@
 #Version 0.0.1
 First development and research on OAI-PMH.
 
-##Observations:
+###Observations:
 
 - Extracts:
     - ListSets(communities)
@@ -25,28 +25,25 @@ First development and research on OAI-PMH.
 	- An approach in less xhr and more local processing.
 	- Less redundacy in file keeping.
 
-##Use case: 
+###Use case: 
 
 - RUN(Repositório da Universidade Nova) at run.unl.pt
 	
-##Motivated:
+###Motivated:
 - Statistical analysis of a repository's features and organization.
 - A view in less xhr and more local processing.
 - Less redundacy in file keeping.
 
-##Use case: 
+###Use case: 
 - RUN(Repositório Universidade Nova) at run.unl.pt
 
-##Test: 
-- node oaiextractor.js http://run.unl.pt/oai/request?
-
-
+###Test: 
 - node oaiextractor.js http://run.unl.pt/oai/request?
 
 #Version 0.0.2
 Development of viable and more efficient extractor.
 
-##Observations:
+###Observations:
 
 - Extracts:
     - All the information of the earlier version  in an unsorted way.
@@ -71,13 +68,13 @@ Development of viable and more efficient extractor.
     - Higher focus on local processing needs.
     - Hope of a viable extractor.
 
-##Use case: 
+###Use case: 
 
 - RUN(Repositório da Universidade Nova) at run.unl.pt
 
-##Test: 
+###Test: 
 - node oaiextractor.js http://run.unl.pt/oai/request? results
 
-##Developed by : Carlos Pinto Machado(AAMaster)
+####Developed by : Carlos Pinto Machado(AAMaster)
 
 
