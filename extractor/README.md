@@ -1,45 +1,83 @@
-Version 0.0.1
-=============
+#Version 0.0.1
 First development and research on OAI-PMH.
 
-Observations:
-- Gets ListSets(communities), ListIdentifiers(Id of records) of each and Records(metadata on publications) of each community.
-- Is rather slow, the strategy was more xhr than local processing. Took circa 45 minutes to accomplish the task in this repo.
-- Has big redundacy, such as repetitions of files. It was found that records can exist in more than one community.
-- Verified huge gaps in use case,because there were 993 empty communities out of 1584.
+##Observations:
+
+- Extracts:
+    - ListSets(communities)
+    - ListIdentifiers(Id of records)
+    - Records(metadata on publications in oai_dc) of each community
+
+- Stores:
+    - Community wise
+    
+- Performance:
+    - Rather Slow. Took circa 45 minutes to accomplish the task in the use case.
+    - Has big redundacy and occupies way to much space.    
+    - Causes:
+        - More XHR than local processing strategy enhanced slow behaviour. (Maybe introduction of proper concurrency would be a solution)
+        - Redundacy in files and organization, was caused by many phenomena. Such as:
+            - It was found that records can exist in more than one community.
+            - Verified huge gaps in use case,because there were 993 empty communities out of 1584.
+
+- Motivated:
+    - Statistical analysis of a repository's features and organization.
+	- An approach in less xhr and more local processing.
+	- Less redundacy in file keeping.
+
+##Use case: 
+
+- RUN(Repositório da Universidade Nova) at run.unl.pt
 	
-Motivated:
+##Motivated:
 - Statistical analysis of a repository's features and organization.
 - A view in less xhr and more local processing.
 - Less redundacy in file keeping.
 
-Use case: 
+##Use case: 
 - RUN(Repositório Universidade Nova) at run.unl.pt
 
-test: 
+##Test: 
 - node oaiextractor.js http://run.unl.pt/oai/request?
 
-Version 0.0.2
-=============
+
+- node oaiextractor.js http://run.unl.pt/oai/request?
+
+#Version 0.0.2
 Development of viable and more efficient extractor.
 
-Observations:
-- It Gets all the information as the early version, but it is unsorted.
-- It is seriously faster (circa 20 to 30 times) in our use case, but is less intensive. Having scored 1m 5s in the last test.
-- Has lesser redundacy and has no repetitions on a file level.
-- Ignores the concept of empty community, because it gets identifiers and records all packaged in many unsorted files.
-- Added the selective folder parameter ( as you can see in tests)
+##Observations:
 
-Motivated:
-- Higher focus on local processing needs.
-- Hope of a viable extractor.
+- Extracts:
+    - All the information of the earlier version  in an unsorted way.
+    - Metadata formats available.
+    - Repository identity and characteristics.
 
-Use case: 
-- RUN(Repositório Universidade Nova) at run.unl.pt
+- Stores:
+    - List Wise, which means all information packaged and unsorted.
+    
+- Performance:
+	- It is seriously faster (circa 20 to 30 times) in our use case. Having scored 1m 5s in the last test.
+	- Has lesser redundacy and occupies much less space.
+    - Causes:
+        - Less intensive, by concentrating in getting less and larger files.
+        - Ignores the concept of empty community, because it gets identifiers and records all packaged in many unsorted files.
+        - Stores uniquely a record, due to prior cause.
+        
+- New Features:
+    - Added the selective folder parameter ( as you can see in tests)
 
-test: 
+- Motivated:
+    - Higher focus on local processing needs.
+    - Hope of a viable extractor.
+
+##Use case: 
+
+- RUN(Repositório da Universidade Nova) at run.unl.pt
+
+##Test: 
 - node oaiextractor.js http://run.unl.pt/oai/request? results
 
-
+##Developed by : Carlos Pinto Machado(AAMaster)
 
 
