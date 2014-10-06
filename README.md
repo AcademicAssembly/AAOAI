@@ -11,7 +11,7 @@ Project to develop a suite that enables to extract the OAI metadata and search o
 
 ###Team composed by:
 - Project manager and Developer: Carlos Pinto Machado(AAMaster)
-- Developer : Miguel Vieira Rodrigues
+- Developer : Miguel Vieira Rodrigues (miguelvrr)
 - Developer : Mário Bello
 
 ###Project Status: 
