@@ -11,7 +11,7 @@ Development of viable and more efficient extractor, as well as storage arquitect
     - List Wise, which means all information packaged and unsorted.
     
 - Performance:
-	- Two times faster as v0.0.2
+	- Two times faster as v0.0.2 (Last timed test circa 38s)
     - Causes:
         - Assynchronous requests
         
@@ -33,5 +33,7 @@ Development of viable and more efficient extractor, as well as storage arquitect
 
 ####Developed by : Carlos Pinto Machado(AAMaster)
 
-
+###Test
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/1617269_10202964165248704_2012480510780562196_o.jpg">
+As you can see it took 38s
 
