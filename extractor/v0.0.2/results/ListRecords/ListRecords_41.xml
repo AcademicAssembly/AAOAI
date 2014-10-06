@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:35:04Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:46:13Z</responseDate>
     <request verb="ListRecords" resumptionToken="MTo0MTAwfDI6fDM6fDQ6fDU6b2FpX2Rj">http://run.unl.pt/oai/request</request>
     <ListRecords>
         <record>
@@ -3168,6 +3168,6 @@ desconstrução do paradigma ver/agir como sintoma do contemporâneo</dc:descrip
 </oai_dc:dc>
 </metadata>
         </record>
-        <resumptionToken completeListSize="8714" cursor="41">MTo0MjAwfDI6fDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
+        <resumptionToken completeListSize="8722" cursor="41">MTo0MjAwfDI6fDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
     </ListRecords>
 </OAI-PMH>

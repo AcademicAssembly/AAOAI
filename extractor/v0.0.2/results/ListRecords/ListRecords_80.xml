@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:35:51Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:46:24Z</responseDate>
     <request verb="ListRecords" resumptionToken="MTo4MDAwfDI6fDM6fDQ6fDU6b2FpX2Rj">http://run.unl.pt/oai/request</request>
     <ListRecords>
         <record>
@@ -3972,6 +3972,6 @@ científico, a submeter para publicação, e integra a segunda parte deste relat
 </oai_dc:dc>
 </metadata>
         </record>
-        <resumptionToken completeListSize="8714" cursor="80">MTo4MTAwfDI6fDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
+        <resumptionToken completeListSize="8722" cursor="80">MTo4MTAwfDI6fDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
     </ListRecords>
 </OAI-PMH>

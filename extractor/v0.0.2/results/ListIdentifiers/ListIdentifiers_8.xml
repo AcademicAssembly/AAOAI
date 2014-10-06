@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:52Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:45:53Z</responseDate>
     <request verb="ListIdentifiers" resumptionToken="MTo4MDB8Mjp8Mzp8NDp8NTpvYWlfZGM=">http://run.unl.pt/oai/request</request>
     <ListIdentifiers>
         <header>
@@ -772,6 +772,6 @@
             <setSpec>com_10362_410</setSpec>
             <setSpec>col_10362_1734</setSpec>
         </header>
-        <resumptionToken completeListSize="8714" cursor="8">MTo5MDB8Mjp8Mzp8NDp8NTpvYWlfZGM=</resumptionToken>
+        <resumptionToken completeListSize="8722" cursor="8">MTo5MDB8Mjp8Mzp8NDp8NTpvYWlfZGM=</resumptionToken>
     </ListIdentifiers>
 </OAI-PMH>

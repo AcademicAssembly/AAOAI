@@ -6,6 +6,8 @@
 var fs = require('fs'); // to create directories
 var list_ext = require('./list_extractor'); // extractor of elements
 
+var begins = new Date();
+
 function getMetaPre(url,dirname){
     var options = {
         'verb':'ListMetadataFormats',
@@ -13,6 +15,22 @@ function getMetaPre(url,dirname){
     
     function callback(obj){
         console.log('ListMetadataFormats completed');
+        
+        var ends = new Date();
+        
+        var minutes = ends.getMinutes() - begins.getMinutes();
+        
+        var seconds = ends.getSeconds() - begins.getSeconds();
+        
+        if(seconds < 0){
+            seconds+=60;
+            minutes++;
+        }
+        
+        if(minutes < 0)
+            minutes+=60;
+        
+        console.log('\nIt took '+minutes+'m '+seconds+'s\n');
     }
     
     var folder = dirname+'/ListMetadataFormats';

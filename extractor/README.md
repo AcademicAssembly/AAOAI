@@ -29,11 +29,6 @@ First development and research on OAI-PMH.
 
 - RUN(Repositório da Universidade Nova) at run.unl.pt
 	
-###Motivated:
-- Statistical analysis of a repository's features and organization.
-- A view in less xhr and more local processing.
-- Less redundacy in file keeping.
-
 ###Use case: 
 - RUN(Repositório Universidade Nova) at run.unl.pt
 

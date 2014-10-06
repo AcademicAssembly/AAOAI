@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:35:12Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:46:15Z</responseDate>
     <request verb="ListRecords" resumptionToken="MTo0ODAwfDI6fDM6fDQ6fDU6b2FpX2Rj">http://run.unl.pt/oai/request</request>
     <ListRecords>
         <record>
@@ -4455,6 +4455,6 @@ Estas comparações permitiram concluir que nas condições do presente estudo o
 </oai_dc:dc>
 </metadata>
         </record>
-        <resumptionToken completeListSize="8714" cursor="48">MTo0OTAwfDI6fDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
+        <resumptionToken completeListSize="8722" cursor="48">MTo0OTAwfDI6fDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
     </ListRecords>
 </OAI-PMH>

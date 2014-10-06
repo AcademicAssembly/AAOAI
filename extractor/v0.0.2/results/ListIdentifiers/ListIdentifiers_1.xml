@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:33:50Z</responseDate>
-    <request verb="ListIdentifiers" resumptionToken="MToxMDB8Mjp8Mzp8NDp8NTpvYWlfZGM=">http://run.unl.pt/oaiextended/request</request>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:45:52Z</responseDate>
+    <request verb="ListIdentifiers" resumptionToken="MToxMDB8Mjp8Mzp8NDp8NTpvYWlfZGM=">http://run.unl.pt/oai/request</request>
     <ListIdentifiers>
         <header>
             <identifier>oai:run.unl.pt:10362/401</identifier>
@@ -825,6 +825,6 @@
             <setSpec>com_10362_410</setSpec>
             <setSpec>col_10362_824</setSpec>
         </header>
-        <resumptionToken completeListSize="8714" cursor="1">MToyMDB8Mjp8Mzp8NDp8NTpvYWlfZGM=</resumptionToken>
+        <resumptionToken completeListSize="8722" cursor="1">MToyMDB8Mjp8Mzp8NDp8NTpvYWlfZGM=</resumptionToken>
     </ListIdentifiers>
 </OAI-PMH>

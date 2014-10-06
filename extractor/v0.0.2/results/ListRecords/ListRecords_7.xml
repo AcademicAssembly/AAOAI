@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:34:20Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:46:02Z</responseDate>
     <request verb="ListRecords" resumptionToken="MTo3MDB8Mjp8Mzp8NDp8NTpvYWlfZGM=">http://run.unl.pt/oai/request</request>
     <ListRecords>
         <record>
@@ -3865,6 +3865,6 @@ determinantes para encontrar, com maior ou menor precisão, qual o melhor local 
 </oai_dc:dc>
 </metadata>
         </record>
-        <resumptionToken completeListSize="8714" cursor="7">MTo4MDB8Mjp8Mzp8NDp8NTpvYWlfZGM=</resumptionToken>
+        <resumptionToken completeListSize="8722" cursor="7">MTo4MDB8Mjp8Mzp8NDp8NTpvYWlfZGM=</resumptionToken>
     </ListRecords>
 </OAI-PMH>

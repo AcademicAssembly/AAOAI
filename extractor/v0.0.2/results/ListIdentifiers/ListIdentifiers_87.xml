@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:34:13Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:46:00Z</responseDate>
     <request verb="ListIdentifiers" resumptionToken="MTo4NzAwfDI6fDM6fDQ6fDU6b2FpX2Rj">http://run.unl.pt/oai/request</request>
     <ListIdentifiers>
         <header>
@@ -51,7 +51,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13167</identifier>
-            <datestamp>2014-10-02T09:47:12Z</datestamp>
+            <datestamp>2014-10-03T01:01:48Z</datestamp>
             <setSpec>com_10362_2186</setSpec>
             <setSpec>com_10362_2089</setSpec>
             <setSpec>com_10362_1967</setSpec>
@@ -59,7 +59,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13168</identifier>
-            <datestamp>2014-10-02T10:08:22Z</datestamp>
+            <datestamp>2014-10-03T01:01:32Z</datestamp>
             <setSpec>com_10362_2249</setSpec>
             <setSpec>com_10362_2089</setSpec>
             <setSpec>com_10362_1967</setSpec>
@@ -67,7 +67,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13169</identifier>
-            <datestamp>2014-10-02T10:27:50Z</datestamp>
+            <datestamp>2014-10-03T01:01:40Z</datestamp>
             <setSpec>com_10362_2256</setSpec>
             <setSpec>com_10362_2089</setSpec>
             <setSpec>com_10362_1967</setSpec>
@@ -75,7 +75,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13170</identifier>
-            <datestamp>2014-10-02T11:22:12Z</datestamp>
+            <datestamp>2014-10-03T01:01:50Z</datestamp>
             <setSpec>com_10362_416</setSpec>
             <setSpec>com_10362_2085</setSpec>
             <setSpec>com_10362_410</setSpec>
@@ -83,7 +83,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13171</identifier>
-            <datestamp>2014-10-02T15:44:56Z</datestamp>
+            <datestamp>2014-10-03T01:01:39Z</datestamp>
             <setSpec>com_10362_419</setSpec>
             <setSpec>com_10362_2085</setSpec>
             <setSpec>com_10362_410</setSpec>
@@ -91,7 +91,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13172</identifier>
-            <datestamp>2014-10-02T16:06:00Z</datestamp>
+            <datestamp>2014-10-03T01:01:44Z</datestamp>
             <setSpec>com_10362_419</setSpec>
             <setSpec>com_10362_2085</setSpec>
             <setSpec>com_10362_410</setSpec>
@@ -99,7 +99,7 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13173</identifier>
-            <datestamp>2014-10-02T16:19:46Z</datestamp>
+            <datestamp>2014-10-03T01:01:51Z</datestamp>
             <setSpec>com_10362_419</setSpec>
             <setSpec>com_10362_2085</setSpec>
             <setSpec>com_10362_410</setSpec>
@@ -107,12 +107,76 @@
         </header>
         <header>
             <identifier>oai:run.unl.pt:10362/13174</identifier>
-            <datestamp>2014-10-02T17:06:12Z</datestamp>
+            <datestamp>2014-10-03T01:01:37Z</datestamp>
             <setSpec>com_10362_421</setSpec>
             <setSpec>com_10362_2085</setSpec>
             <setSpec>com_10362_410</setSpec>
             <setSpec>col_10362_1048</setSpec>
         </header>
-        <resumptionToken completeListSize="8714" cursor="87"></resumptionToken>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13175</identifier>
+            <datestamp>2014-10-03T16:19:02Z</datestamp>
+            <setSpec>com_10362_2272</setSpec>
+            <setSpec>com_10362_2068</setSpec>
+            <setSpec>com_10362_1967</setSpec>
+            <setSpec>col_10362_6499</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13176</identifier>
+            <datestamp>2014-10-04T01:01:33Z</datestamp>
+            <setSpec>com_10362_415</setSpec>
+            <setSpec>com_10362_2085</setSpec>
+            <setSpec>com_10362_410</setSpec>
+            <setSpec>col_10362_1036</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13177</identifier>
+            <datestamp>2014-10-04T01:01:45Z</datestamp>
+            <setSpec>com_10362_2186</setSpec>
+            <setSpec>com_10362_2089</setSpec>
+            <setSpec>com_10362_1967</setSpec>
+            <setSpec>col_10362_4154</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13178</identifier>
+            <datestamp>2014-10-04T01:01:58Z</datestamp>
+            <setSpec>com_10362_415</setSpec>
+            <setSpec>com_10362_2085</setSpec>
+            <setSpec>com_10362_410</setSpec>
+            <setSpec>col_10362_1036</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13179</identifier>
+            <datestamp>2014-10-04T01:01:39Z</datestamp>
+            <setSpec>com_10362_415</setSpec>
+            <setSpec>com_10362_2085</setSpec>
+            <setSpec>com_10362_410</setSpec>
+            <setSpec>col_10362_1036</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13180</identifier>
+            <datestamp>2014-10-04T01:01:50Z</datestamp>
+            <setSpec>com_10362_415</setSpec>
+            <setSpec>com_10362_2085</setSpec>
+            <setSpec>com_10362_410</setSpec>
+            <setSpec>col_10362_1036</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13182</identifier>
+            <datestamp>2014-10-04T01:01:44Z</datestamp>
+            <setSpec>com_10362_2272</setSpec>
+            <setSpec>com_10362_2068</setSpec>
+            <setSpec>com_10362_1967</setSpec>
+            <setSpec>col_10362_6499</setSpec>
+        </header>
+        <header>
+            <identifier>oai:run.unl.pt:10362/13183</identifier>
+            <datestamp>2014-10-04T01:01:48Z</datestamp>
+            <setSpec>com_10362_2272</setSpec>
+            <setSpec>com_10362_2068</setSpec>
+            <setSpec>com_10362_1967</setSpec>
+            <setSpec>col_10362_6499</setSpec>
+        </header>
+        <resumptionToken completeListSize="8722" cursor="87"></resumptionToken>
     </ListIdentifiers>
 </OAI-PMH>

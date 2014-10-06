@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-03T19:35:59Z</responseDate>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-06T12:46:26Z</responseDate>
     <request verb="ListRecords" resumptionToken="MTo4NzAwfDI6fDM6fDQ6fDU6b2FpX2Rj">http://run.unl.pt/oai/request</request>
     <ListRecords>
         <record>
@@ -261,7 +261,7 @@ de vida de cada um dos intervenientes, a importÃ¢ncia da ciÃªncia na vida de
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13167</identifier>
-                <datestamp>2014-10-02T09:47:12Z</datestamp>
+                <datestamp>2014-10-03T01:01:48Z</datestamp>
                 <setSpec>com_10362_2186</setSpec>
                 <setSpec>com_10362_2089</setSpec>
                 <setSpec>com_10362_1967</setSpec>
@@ -289,7 +289,7 @@ de vida de cada um dos intervenientes, a importÃ¢ncia da ciÃªncia na vida de
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13168</identifier>
-                <datestamp>2014-10-02T10:08:22Z</datestamp>
+                <datestamp>2014-10-03T01:01:32Z</datestamp>
                 <setSpec>com_10362_2249</setSpec>
                 <setSpec>com_10362_2089</setSpec>
                 <setSpec>com_10362_1967</setSpec>
@@ -320,7 +320,7 @@ Problematiza-se a viabilidade da transgressÃ£o ou norma num mundo de consumism
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13169</identifier>
-                <datestamp>2014-10-02T10:27:50Z</datestamp>
+                <datestamp>2014-10-03T01:01:40Z</datestamp>
                 <setSpec>com_10362_2256</setSpec>
                 <setSpec>com_10362_2089</setSpec>
                 <setSpec>com_10362_1967</setSpec>
@@ -350,7 +350,7 @@ Problematiza-se a viabilidade da transgressÃ£o ou norma num mundo de consumism
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13170</identifier>
-                <datestamp>2014-10-02T11:22:12Z</datestamp>
+                <datestamp>2014-10-03T01:01:50Z</datestamp>
                 <setSpec>com_10362_416</setSpec>
                 <setSpec>com_10362_2085</setSpec>
                 <setSpec>com_10362_410</setSpec>
@@ -386,7 +386,7 @@ O lucro e o perfil da energia elÃ©ctrica produzida pela central sÃ£o analisa
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13171</identifier>
-                <datestamp>2014-10-02T15:44:56Z</datestamp>
+                <datestamp>2014-10-03T01:01:39Z</datestamp>
                 <setSpec>com_10362_419</setSpec>
                 <setSpec>com_10362_2085</setSpec>
                 <setSpec>com_10362_410</setSpec>
@@ -419,7 +419,7 @@ Finalmente, introduzem-se tÃ©cnicas de rastreabilidade e de apoio a testes de 
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13172</identifier>
-                <datestamp>2014-10-02T16:06:00Z</datestamp>
+                <datestamp>2014-10-03T01:01:44Z</datestamp>
                 <setSpec>com_10362_419</setSpec>
                 <setSpec>com_10362_2085</setSpec>
                 <setSpec>com_10362_410</setSpec>
@@ -467,7 +467,7 @@ Em suma, espera-se que com esta dissertaÃ§Ã£o a compreensÃ£o de um sistema
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13173</identifier>
-                <datestamp>2014-10-02T16:19:46Z</datestamp>
+                <datestamp>2014-10-03T01:01:51Z</datestamp>
                 <setSpec>com_10362_419</setSpec>
                 <setSpec>com_10362_2085</setSpec>
                 <setSpec>com_10362_410</setSpec>
@@ -503,7 +503,7 @@ arquitecturais organizacionais descritos em i*, para os modelos arquitecturais d
         <record>
             <header>
                 <identifier>oai:run.unl.pt:10362/13174</identifier>
-                <datestamp>2014-10-02T17:06:12Z</datestamp>
+                <datestamp>2014-10-03T01:01:37Z</datestamp>
                 <setSpec>com_10362_421</setSpec>
                 <setSpec>com_10362_2085</setSpec>
                 <setSpec>com_10362_410</setSpec>
@@ -526,6 +526,485 @@ arquitecturais organizacionais descritos em i*, para os modelos arquitecturais d
 </oai_dc:dc>
 </metadata>
         </record>
-        <resumptionToken completeListSize="8714" cursor="87"></resumptionToken>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13175</identifier>
+                <datestamp>2014-10-03T16:19:02Z</datestamp>
+                <setSpec>com_10362_2272</setSpec>
+                <setSpec>com_10362_2068</setSpec>
+                <setSpec>com_10362_1967</setSpec>
+                <setSpec>col_10362_6499</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Da caÃ§a de MondragÃ³n Ã  guarda do Estreito de Gibraltar (1508-1513) : os guardiÃµes da memÃ³ria de Duarte Pacheco Pereira e a economia da mercÃª nos sÃ©culos XVI-XVII</dc:title>
+<dc:creator>Pinto, Pedro</dc:creator>
+<dc:creator>Carvalho, Andreia</dc:creator>
+<dc:subject>Corso</dc:subject>
+<dc:subject>Armadas</dc:subject>
+<dc:subject>Marrocos</dc:subject>
+<dc:subject>Arquivos de FamÃ­lia</dc:subject>
+<dc:subject>Economia de MercÃª</dc:subject>
+<dc:subject>Ã&#141;ndia</dc:subject>
+<dc:description>O artigo apresenta nova documentaÃ§Ã£o relativa ao episÃ³dio do primeiro ataque a uma nau da Carreira da Ã&#141;ndia, a nau de Job Queimado, e o papel desempenhado por Duarte Pacheco Pereira na perseguiÃ§Ã£o do pirata MondragÃ³n. Primeiramente, mostraremos como o pirata nÃ£o chegou a ser capturado pelos portugueses. Duarte Pacheco Pereira tornou-se capitÃ£o-mor de vÃ¡rias armadas enviadas ao Estreito de Gibraltar. O seu desempenho no estreito nos anos de 1509, 1510, 1511 e 1513 vem complementar a lacuna documental sobre as suas actividades apÃ³s a redacÃ§Ã£o do Esmeraldo de Situ Orbis. Em seguida, mostraremos como a documentaÃ§Ã£o rÃ©gia enviada por D. Manuel I a Duarte Pacheco Pereira foi preservada pelos seus descendentes e utilizada para obter da Coroa mercÃªs adicionais, baseadas no seu serviÃ§o, durante mais de um sÃ©culo. O artigo Ã© complementado por um apÃªndice documental onde se apresentam as transcriÃ§Ãµes da documentaÃ§Ã£o existente no Arquivo Almada Lencastre Basto, na Biblioteca Nacional de Portugal.</dc:description>
+<dc:date>2014-10-02T20:48:08Z</dc:date>
+<dc:date>2014-10-02T20:48:08Z</dc:date>
+<dc:date>2012</dc:date>
+<dc:type>article</dc:type>
+<dc:identifier>Pedro Pinto e Andreia Martins Carvalho, "Da caÃ§a de MondragÃ³n Ã  guarda&#13;
+do Estreito de Gibraltar (1508-1513) : os guardiÃµes da memÃ³ria de Duarte&#13;
+Pacheco Pereira e a economia da mercÃª nos sÃ©culos XVI-XVIIâ&#128;&#157;, Anais de&#13;
+HistÃ³ria de AlÃ©m-Mar, Vol. XIII, pp. 221-332</dc:identifier>
+<dc:identifier>0874-9671</dc:identifier>
+<dc:identifier>http://hdl.handle.net/10362/13175</dc:identifier>
+<dc:language>por</dc:language>
+<dc:rights>openAccess</dc:rights>
+<dc:publisher>Centro de HistÃ³ria de AlÃ©m-Mar</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13176</identifier>
+                <datestamp>2014-10-04T01:01:33Z</datestamp>
+                <setSpec>com_10362_415</setSpec>
+                <setSpec>com_10362_2085</setSpec>
+                <setSpec>com_10362_410</setSpec>
+                <setSpec>col_10362_1036</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>CaracterizaÃ§Ã£o de argamassas de cal aÃ©rea e terra. A influÃªncia do traÃ§o e tipo de fibra natural</dc:title>
+<dc:creator>Santos, Pedro AndrÃ© Carreira Barreiros dos</dc:creator>
+<dc:contributor>Faria, Paulina</dc:contributor>
+<dc:subject>Argamassa</dc:subject>
+<dc:subject>Cal aÃ©rea</dc:subject>
+<dc:subject>Terra argilosa</dc:subject>
+<dc:subject>Fibra natural</dc:subject>
+<dc:subject>CaracterizaÃ§Ã£o</dc:subject>
+<dc:description>A crescente consciencializaÃ§Ã£o das sociedades para a reabilitaÃ§Ã£o de edifÃ­cios tem aumentado o interesse da comunidade cientÃ­fica por argamassas tradicionais baseadas em materiais mais susten-tÃ¡veis e compatÃ­veis com suportes antigos. Contrariamente ao cimento, de uso generalizado nas Ãºlti-mas dÃ©cadas, as argamassas com base em cal aÃ©rea tÃªm recuperado espaÃ§o na construÃ§Ã£o graÃ§as aos seus bons resultados, sobretudo quando aplicadas em edifÃ­cios antigos. A introduÃ§Ã£o de fibras naturais constitui uma tentativa para melhorar certas caracterÃ­sticas das argamassas, aumentando a sua durabilidade, sem perder sustentabilidade. Contudo, a incorporaÃ§Ã£o de terra e fibras naturais em argamassas de cal aÃ©rea nÃ£o Ã© actualmente uma prÃ¡tica generalizada, pelo que o seu estudo Ã© im-prescindÃ­vel para perceber a sua viabilidade.&#13;
+Neste contexto, esta dissertaÃ§Ã£o avalia a influÃªncia da introduÃ§Ã£o de terra argilosa e de fibras natu-rais em argamassas de cal aÃ©rea. As argamassas estudadas sÃ£o constituÃ­das por cal aÃ©rea e areias siliciosas, partindo de traÃ§os volumÃ©tricos 1:2 e 1:3. Nas argamassas de traÃ§o mais forte Ã© feita uma substituiÃ§Ã£o de 25% do ligante (cal aÃ©rea) por terra, enquanto nas de traÃ§o mais fraco se substitui 10% de areia fina por terra. Realizaram-se ensaios de caracterizaÃ§Ã£o nas argamassas em estado fresco e em estado endurecido (28, 90 e 180 dias), sobre provetes condicionados em laboratÃ³rio (prismÃ¡ticos e sobre tijolo) e, aos 28 dias, sobre painÃ©is de reboco aplicados num murete de taipa existente na EstaÃ§Ã£o de ExposiÃ§Ã£o Natural de Revestimentos do DEC da FCT-UNL.&#13;
+No estado fresco verificou-se que a introduÃ§Ã£o de fibras naturais nas argamassas aumenta o seu espalhamento, melhorando a trabalhabilidade. No estado endurecido, constatou-se que a inclusÃ£o dessas fibras tornou as argamassas mais porosas e, consequentemente, com melhor comportamento tÃ©rmico e pior comportamento mecÃ¢nico, pela reduÃ§Ã£o de resistÃªncias. No comportamento face Ã  Ã¡gua, a adiÃ§Ã£o de lÃ£ de ovelha destacou-se como uma soluÃ§Ã£o que melhora, consideravelmente, as condiÃ§Ãµes de secagem. A generalidade das argamassas estudadas revela grande aptidÃ£o para apli-caÃ§Ã£o em reboco de edifÃ­cios antigos mas o teor de fibras deve ser limitado.</dc:description>
+<dc:date>2014-10-03T08:45:08Z</dc:date>
+<dc:date>2014-10-03T08:45:08Z</dc:date>
+<dc:date>2014-06</dc:date>
+<dc:date>2014-10</dc:date>
+<dc:type>masterThesis</dc:type>
+<dc:identifier>http://hdl.handle.net/10362/13176</dc:identifier>
+<dc:language>por</dc:language>
+<dc:rights>openAccess</dc:rights>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13177</identifier>
+                <datestamp>2014-10-04T01:01:45Z</datestamp>
+                <setSpec>com_10362_2186</setSpec>
+                <setSpec>com_10362_2089</setSpec>
+                <setSpec>com_10362_1967</setSpec>
+                <setSpec>col_10362_4154</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frente Ribeirinha de Lisboa. RegeneraÃ§Ã£o Urbana â&#128;&#147; Nova Maneira de Pensar e Fazer Cidade</dc:title>
+<dc:creator>Oliveira, Ana Carina Pinto de</dc:creator>
+<dc:contributor>Soares, Nuno Henrique Pires</dc:contributor>
+<dc:contributor>Fernandes, AndrÃ©</dc:contributor>
+<dc:subject>RegeneraÃ§Ã£o Urbana</dc:subject>
+<dc:subject>Sustentabilidade Urbana</dc:subject>
+<dc:subject>Ã&#129;rea Ribeirinha Oriental de Lisboa</dc:subject>
+<dc:subject>RelaÃ§Ã£o Porto-Cidade</dc:subject>
+<dc:description>O conceito de regeneraÃ§Ã£o urbana Ã© indissociÃ¡vel das mutaÃ§Ãµes ocorridas nos espaÃ§os portuÃ¡rios, concretizando, a atividade portuÃ¡ria passou por profundas transformaÃ§Ãµes no Ãºltimo sÃ©culo devido Ã s exigÃªncias da globalizaÃ§Ã£o, Ã  evoluÃ§Ã£o do transporte marÃ­timo e Ã  maior complexidade das cadeias logÃ­sticas globais. Consequentemente, ocorreram mudanÃ§as significativas nos portos com impactes importantes na relaÃ§Ã£o porto-cidade. A modernizaÃ§Ã£o das infraestruturas portuÃ¡rias e o processo de desindustrializaÃ§Ã£o, apÃ³s o fim da II Guerra Mundial, levou ao declÃ­nio da indÃºstria de base, Ã  desativaÃ§Ã£o/adaptaÃ§Ã£o de instalaÃ§Ãµes e Ã  deslocalizaÃ§Ã£o de infraestruturas portuÃ¡rias para Ã¡reas perifÃ©ricas das cidades. VÃ£o assim surgir, nas frentes de Ã¡gua das cidades portuÃ¡rias, Ã¡reas abandonadas e degradadas. As operaÃ§Ãµes de regeneraÃ§Ã£o urbana surgem como a soluÃ§Ã£o encontrada para a revitalizaÃ§Ã£o sustentÃ¡vel das Ã¡reas desprezadas e devolutas com o objetivo de mudar a imagem da cidade. A relaÃ§Ã£o entre o porto e a cidade de Lisboa Ã© notoriamente complexa passando por inÃºmeras fases: se inicialmente o porto exercia um papel fulcral na organizaÃ§Ã£o da cidade e suas funÃ§Ãµes, recentemente esta relaÃ§Ã£o quebrou-se verificando-se um crescimento autÃ³nomo da cidade em relaÃ§Ã£o ao porto e suas atividades. A zona ribeirinha oriental da cidade de Lisboa foi a que mais sofreu com esta â&#128;&#156;separaÃ§Ã£oâ&#128;&#157;. Ã&#137; nesta zona que se podem encontrar Ã¡reas portuÃ¡rias e espaÃ§os urbanos abandonados e obsoletos que perderam importÃ¢ncia face Ã s recentes exigÃªncias de organizaÃ§Ã£o portuÃ¡ria. Neste contexto, a dissertaÃ§Ã£o analisa as vantagens inerentes ao processo de regeneraÃ§Ã£o urbana na Ã¡rea ribeirinha oriental de Lisboa de modo a garantir a sua sustentabilidade urbana.</dc:description>
+<dc:date>2014-10-03T08:59:42Z</dc:date>
+<dc:date>2014</dc:date>
+<dc:date>2014-03</dc:date>
+<dc:date>2016-03</dc:date>
+<dc:type>masterThesis</dc:type>
+<dc:identifier>http://hdl.handle.net/10362/13177</dc:identifier>
+<dc:language>por</dc:language>
+<dc:rights>restrictedAccess</dc:rights>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13178</identifier>
+                <datestamp>2014-10-04T01:01:58Z</datestamp>
+                <setSpec>com_10362_415</setSpec>
+                <setSpec>com_10362_2085</setSpec>
+                <setSpec>com_10362_410</setSpec>
+                <setSpec>col_10362_1036</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>AvaliaÃ§Ã£o do clima interior da igreja de SÃ£o CristÃ³vÃ£o em Lisboa</dc:title>
+<dc:creator>Leandro, Carla Sofia Sampaio</dc:creator>
+<dc:contributor>Henriques, Fernando</dc:contributor>
+<dc:subject>PatrimÃ³nio</dc:subject>
+<dc:subject>Igreja</dc:subject>
+<dc:subject>Humidade relativa</dc:subject>
+<dc:subject>Temperatura</dc:subject>
+<dc:subject>Microclima</dc:subject>
+<dc:subject>InÃ©rcia tÃ©rmica</dc:subject>
+<dc:description>Muitos dos edifÃ­cios histÃ³ricos que fazem parte do nosso patrimÃ³nio apresentam caracterÃ­sticas construtivas que lhes permitem o desenvolvimento de um microclima particular no seu interior. Esse microclima pode apresentar temperaturas e humidades relativas desadequadas para a conservaÃ§Ã£o dos materiais e dos artefactos, contruindo para a degradaÃ§Ã£o dos materiais. O conhecimento do microclima permite avaliar as condiÃ§Ãµes higrotÃ©rmicas e assim perceber se sÃ£o as adequadas para a conservaÃ§Ã£o do edifÃ­cio e dos seus artefactos.&#13;
+A presente dissertaÃ§Ã£o tem como objectivo caracterizar as condiÃ§Ãµes higrotÃ©rmicas no interior da Igreja de SÃ£o CristÃ³vÃ£o em Lisboa. Para tal foram realizadas mediÃ§Ãµes automÃ¡ticas da temperatura do ar interior e temperatura superficial numa parede orientada a norte. Estas mediÃ§Ãµes foram realizadas atravÃ©s de vinte e cinco sensores distribuÃ­dos pelo interior da igreja, um na torre norte e outro no desvÃ£o da cobertura. As mediÃ§Ãµes realizaram-se entre os dias 1 de Novembro de 2012 e 18 de Julho de 2013, com registos a cada 10 minutos e permitiram, por meio de um tratamento estatÃ­stico, analisar a evoluÃ§Ã£o da temperatura e humidade relativa no interior e exterior da igreja. De forma complementar, realizaram-se duas baterias de leituras de temperatura do ar e humidade relativa em trinta e quatro pontos ao longo da nave principal da igreja. Efectuaram-se tambÃ©m, mediÃ§Ãµes de temperaturas superficiais em dezassete pontos e recolheram-se imagens de termografia ao longo de nave principal.&#13;
+Na sequÃªncia da anÃ¡lise Ã© possÃ­vel verificar que as condiÃ§Ãµes exteriores apresentam pouca influÃªncia nos ciclos diÃ¡rios e que a elevada inercia tÃ©rmica do edifÃ­cio causa um atraso sazonal. Ao longo do perÃ­odo de monitorizaÃ§Ã£o nÃ£o ocorreram condensaÃ§Ãµes superficiais.Com base nos resultados obtidos observou-se que o clima interior Ã© estÃ¡vel, apresentando apenas pequenas variaÃ§Ãµes ao longo do dia. Constatou-se que as amplitudes mÃ©dias diÃ¡rias de temperatura nÃ£o sÃ£o prejudiciais para a conservaÃ§Ã£o dos materiais e artefactos, mas que as amplitudes mÃ©dias diÃ¡rias podem ser desfavorÃ¡veis para a conservaÃ§Ã£o.</dc:description>
+<dc:date>2014-10-03T09:34:39Z</dc:date>
+<dc:date>2014-10-03T09:34:39Z</dc:date>
+<dc:date>2014-06</dc:date>
+<dc:date>2014-10</dc:date>
+<dc:type>masterThesis</dc:type>
+<dc:identifier>http://hdl.handle.net/10362/13178</dc:identifier>
+<dc:language>por</dc:language>
+<dc:rights>openAccess</dc:rights>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13179</identifier>
+                <datestamp>2014-10-04T01:01:39Z</datestamp>
+                <setSpec>com_10362_415</setSpec>
+                <setSpec>com_10362_2085</setSpec>
+                <setSpec>com_10362_410</setSpec>
+                <setSpec>col_10362_1036</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Estudo do comportamento acÃºstico de protÃ³tipo inovador para compartimentaÃ§Ã£o modular interior</dc:title>
+<dc:creator>SimÃµes, GonÃ§alo Nuno Costa Cruz</dc:creator>
+<dc:contributor>PatrÃ­cio, Jorge</dc:contributor>
+<dc:contributor>Faria, Paulina</dc:contributor>
+<dc:subject>AcÃºstica</dc:subject>
+<dc:subject>Isolamento sonoro</dc:subject>
+<dc:subject>AbsorÃ§Ã£o sonora</dc:subject>
+<dc:subject>CompartimentaÃ§Ã£o interior</dc:subject>
+<dc:subject>ProtÃ³tipo</dc:subject>
+<dc:subject>Ensaios</dc:subject>
+<dc:description>A presente dissertaÃ§Ã£o consiste no estudo acÃºstico de um mÃ³dulo amovÃ­vel para compartimentaÃ§Ã£o interior, considerando um primeiro protÃ³tipo, ainda em desenvolvimento. Ã&#137; um elemento vertical de divisÃ£o de espaÃ§os interiores, prÃ©-fabricado que nÃ£o requer a utilizaÃ§Ã£o de calhas ou apoio tÃ©cnico, de rÃ¡pido e fÃ¡cil posicionamento, ajustÃ¡vel ao pÃ© direito do local onde Ã© instalado, mantendo, ainda assim, as caracterÃ­sticas chave de uma divisÃ³ria convencional. Um conjunto de mÃ³dulos deste tipo, dispostos linearmente, formarÃ£o um divisor que permitirÃ¡ a personalizaÃ§Ã£o de qualquer Ã¡rea interior, nomeadamente habitaÃ§Ãµes, escritÃ³rios, galerias, entre outros. A principal caracterÃ­stica que diferencia este elemento das soluÃ§Ãµes existentes actualmente no mercado Ã© a sua mobilidade depender exclusivamente de um conjunto de rolamentos integrados na base de cada mÃ³dulo. AtravÃ©s de um sistema de elevaÃ§Ã£o incorporado, o utilizador pode baixar o mÃ³dulo, movÃª-lo para a posiÃ§Ã£o desejada e voltar a elevÃ¡-lo atÃ© que este fique comprimido contra a laje do tecto, ficando assim estÃ¡vel.&#13;
+O trabalho realizado pretendeu aprofundar conhecimentos na Ã¡rea de acÃºstica para que possam ser introduzidas modificaÃ§Ãµes num segundo protÃ³tipo a ser desenvolvido futuramente.&#13;
+Dessa forma, realizaram-se diversos ensaios que decorreram no laboratÃ³rio de acÃºstica do LNEC. Inicialmente procedeu-se Ã  materializaÃ§Ã£o de um ensaio de absorÃ§Ã£o sonora, realizado para uma Ãºnica tipologia do mÃ³dulo, e efectuou-se um mapeamento de mediÃ§Ãµes do nÃ­vel de pressÃ£o sonora.&#13;
+A execuÃ§Ã£o de adaptaÃ§Ãµes no sistema e a abertura na parede, que separa as cÃ¢maras reverberantes, possibilitou a concretizaÃ§Ã£o de diversos ensaios de isolamento sonoro a sons aÃ©reos para diferentes tipologias do mesmo.&#13;
+Os resultados destes ensaios permitiram nÃ£o sÃ³ concluir quais os materiais que deverÃ£o ser preferencialmente contemplados neste tipo de soluÃ§Ã£o, com vista a um melhor desempenho acÃºstico, como tambÃ©m adiantar dados adicionais que poderÃ£o ser relevantes na fase de projecto deste tipo de estruturas aligeiradas.</dc:description>
+<dc:date>2014-10-03T09:43:02Z</dc:date>
+<dc:date>2014-10-03T09:43:02Z</dc:date>
+<dc:date>2014-07</dc:date>
+<dc:date>2014-10</dc:date>
+<dc:type>masterThesis</dc:type>
+<dc:identifier>http://hdl.handle.net/10362/13179</dc:identifier>
+<dc:language>por</dc:language>
+<dc:rights>openAccess</dc:rights>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13180</identifier>
+                <datestamp>2014-10-04T01:01:50Z</datestamp>
+                <setSpec>com_10362_415</setSpec>
+                <setSpec>com_10362_2085</setSpec>
+                <setSpec>com_10362_410</setSpec>
+                <setSpec>col_10362_1036</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>PerÃ­odo de tempo disponÃ­vel para a compactaÃ§Ã£o de misturas betuminosas: anÃ¡lise paramÃ©trica</dc:title>
+<dc:creator>Alves, MÃ¡rcio Rodrigues</dc:creator>
+<dc:contributor>Micaelo, Rui</dc:contributor>
+<dc:contributor>Aelenei, Daniel</dc:contributor>
+<dc:subject>Temperatura</dc:subject>
+<dc:subject>Misturas betuminosas</dc:subject>
+<dc:subject>PavimentaÃ§Ã£o</dc:subject>
+<dc:subject>TransmissÃ£o de calor</dc:subject>
+<dc:subject>Tempo disponÃ­vel para compactaÃ§Ã£o</dc:subject>
+<dc:description>A compactaÃ§Ã£o de misturas betuminosas, apesar de ser a Ãºltima etapa da construÃ§Ã£o de um pavimento rodoviÃ¡rio, tem uma importÃ¢ncia fundamental para o comportamento do material em serviÃ§o. As alteraÃ§Ãµes impostas aquando da compactaÃ§Ã£o conferem ao material a capacidade para que o pavimento suporte as cargas sem se deformar de forma comprometedora e que nÃ£o apresente fendilhamento prematuro. A operaÃ§Ã£o de compactaÃ§Ã£o deverÃ¡ ser realizada enquanto a temperatura do material estÃ¡ no intervalo de temperaturas consideradas adequadas.&#13;
+O objectivo principal deste trabalho Ã© o estudo da previsÃ£o do tempo disponÃ­vel para a compactaÃ§Ã£o. Assim, construi-se uma ferramenta numÃ©rica para a previsÃ£o do arrefecimento da camada de mistura betuminosa apÃ³s a aplicaÃ§Ã£o. Adoptou-se o mÃ©todo do equilÃ­brio energÃ©tico, um mÃ©todo directo, Ã s equaÃ§Ãµes de transmissÃ£o de calor para determinar a temperatura em funÃ§Ã£o do tempo e da posiÃ§Ã£o em altura na camada. O arrefecimento da camada de desgaste foi calculado tendo em conta a transmissÃ£o de calor por conduÃ§Ã£o, convecÃ§Ã£o e radiaÃ§Ã£o. Foi realizada a anÃ¡lise da influÃªncia das condiÃ§Ãµes atmosfÃ©ricas e das caracterÃ­sticas do material no arrefecimento da camada de mistura betuminosa aplicada.&#13;
+No estudo admitiram-se quatro estruturas de pavimento, com diferentes espessuras e materiais, e efectuou-se a anÃ¡lise das condiÃ§Ãµes atmosfÃ©ricas, onde foram tidas em conta os seguintes parÃ¢metros: temperatura do ar; velocidade do vento; nebulosidade. Na variaÃ§Ã£o das condiÃ§Ãµes dos materiais foi considerada a variaÃ§Ã£o da temperatura de aplicaÃ§Ã£o da mistura betuminosa e a variaÃ§Ã£o do coeficiente de condutibilidade tÃ©rmica do material aplicado. Por ultimo, foi modelado o processo construtivo, pela variaÃ§Ã£o da espessura e das propriedades dos materiais de acordo com a compactaÃ§Ã£o prevista.&#13;
+Concluiu-se que as caracterÃ­sticas atmosfÃ©ricas tÃªm um peso substancialmente maior no tempo de arrefecimento quando comparadas com as alteraÃ§Ãµes impostas nas propriedades dos materiais. O vento surge como o factor atmosfÃ©rico que mais influencia o arrefecimento, sendo possÃ­vel tambÃ©m concluir que para ser possÃ­vel ter a percepÃ§Ã£o do efeito provocado pela nebulosidade Ã© necessÃ¡rio ter em conta a sua influÃªncia na temperatura do ar. Contudo o maior condicionante do tempo disponÃ­vel Ã© a espessura da camada de mistura betuminosa aplicada.&#13;
+O resultado final deste trabalho Ã© um modelo numÃ©rico, que pode ser usado para prever o arrefecimento de uma camada de mistura betuminosa aplicada com base nas condiÃ§Ãµes atmosfÃ©ricas verificadas e caracterÃ­sticas tÃ©rmicas dos materiais envolvidos, com base nos trÃªs fenÃ³menos de transmissÃ£o tÃ©rmicas: conduÃ§Ã£o; convecÃ§Ã£o; radiaÃ§Ã£o.</dc:description>
+<dc:date>2014-10-03T09:48:28Z</dc:date>
+<dc:date>2014-10-03T09:48:28Z</dc:date>
+<dc:date>2014-03</dc:date>
+<dc:date>2014-10</dc:date>
+<dc:type>masterThesis</dc:type>
+<dc:identifier>http://hdl.handle.net/10362/13180</dc:identifier>
+<dc:language>por</dc:language>
+<dc:rights>openAccess</dc:rights>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13182</identifier>
+                <datestamp>2014-10-04T01:01:44Z</datestamp>
+                <setSpec>com_10362_2272</setSpec>
+                <setSpec>com_10362_2068</setSpec>
+                <setSpec>com_10362_1967</setSpec>
+                <setSpec>col_10362_6499</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A chancelaria rÃ©gia de D. Dinis : breves observaÃ§Ãµes diplomÃ¡ticas</dc:title>
+<dc:creator>Gomes, SaÃºl AntÃ³nio</dc:creator>
+<dc:subject>Chancelaria</dc:subject>
+<dc:subject>D. Dinis</dc:subject>
+<dc:description>Neste&#13;
+artigo,&#13;
+o&#13;
+autor&#13;
+propÃµe-Â­â&#128;&#144;se&#13;
+refletir&#13;
+sobre&#13;
+a&#13;
+chancelaria&#13;
+do&#13;
+rei&#13;
+D.&#13;
+Dinis&#13;
+apresentando&#13;
+novas&#13;
+perspetivas&#13;
+para&#13;
+o&#13;
+seu&#13;
+entendimento&#13;
+do&#13;
+ponto&#13;
+de&#13;
+vista&#13;
+diplomÃ¡tico,&#13;
+ao&#13;
+mesmo&#13;
+tempo&#13;
+que&#13;
+valoriza,&#13;
+dÃ¡&#13;
+notÃ­cia&#13;
+e&#13;
+publica&#13;
+um&#13;
+conjunto&#13;
+de&#13;
+documentaÃ§Ã£o,&#13;
+pouco&#13;
+divulgada,&#13;
+que&#13;
+permite&#13;
+reavaliar&#13;
+a&#13;
+dimensÃ£o&#13;
+e&#13;
+o&#13;
+significado&#13;
+histÃ³ricos&#13;
+da&#13;
+produÃ§Ã£o&#13;
+documental&#13;
+dionisina.</dc:description>
+<dc:description>In&#13;
+this&#13;
+article,&#13;
+the&#13;
+author&#13;
+focuses&#13;
+on&#13;
+the&#13;
+chancellery&#13;
+of&#13;
+king&#13;
+D.&#13;
+Dinis&#13;
+presenting&#13;
+new&#13;
+ideias&#13;
+for&#13;
+its&#13;
+diplomatist&#13;
+understanding,&#13;
+and,&#13;
+simultaneously,&#13;
+values,&#13;
+announces&#13;
+and&#13;
+publishes&#13;
+a&#13;
+set&#13;
+of&#13;
+documentation,&#13;
+little&#13;
+divulged,&#13;
+that&#13;
+allows&#13;
+for&#13;
+a&#13;
+reappraising&#13;
+of&#13;
+the&#13;
+historical&#13;
+dimension&#13;
+and&#13;
+the&#13;
+meaning&#13;
+of&#13;
+the&#13;
+documentary&#13;
+production&#13;
+from&#13;
+this&#13;
+king.</dc:description>
+<dc:date>2014-10-03T13:23:10Z</dc:date>
+<dc:date>2014-10-03T13:23:10Z</dc:date>
+<dc:date>2013</dc:date>
+<dc:type>article</dc:type>
+<dc:identifier>1647-Â­â&#128;&#144;6344</dc:identifier>
+<dc:identifier>http://hdl.handle.net/10362/13182</dc:identifier>
+<dc:language>por</dc:language>
+<dc:relation>N. 1;</dc:relation>
+<dc:relation>http://online.flipbuilder.com/sbdk/fqnf/</dc:relation>
+<dc:rights>openAccess</dc:rights>
+<dc:publisher>Centro de Estudos HistÃ³ricos, Universidade Nova de Lisboa</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:run.unl.pt:10362/13183</identifier>
+                <datestamp>2014-10-04T01:01:48Z</datestamp>
+                <setSpec>com_10362_2272</setSpec>
+                <setSpec>com_10362_2068</setSpec>
+                <setSpec>com_10362_1967</setSpec>
+                <setSpec>col_10362_6499</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O padroado rÃ©gio na diocese de Lisboa durante a Idade MÃ©dia : uma instituiÃ§Ã£o in diminuendo</dc:title>
+<dc:creator>Farelo, MÃ¡rio</dc:creator>
+<dc:subject>Diocese de Lisboa</dc:subject>
+<dc:subject>padroado rÃ©gio</dc:subject>
+<dc:subject>chancelaria rÃ©gia</dc:subject>
+<dc:subject>colegiadas</dc:subject>
+<dc:description>Este&#13;
+trabalho&#13;
+pretende&#13;
+caracterizar&#13;
+a&#13;
+crescente&#13;
+alienaÃ§Ã£o&#13;
+do&#13;
+padrado&#13;
+rÃ©gio&#13;
+na&#13;
+diocese&#13;
+de&#13;
+Lisboa&#13;
+no&#13;
+perÃ­odo&#13;
+medieval.&#13;
+Um&#13;
+tal&#13;
+estudo&#13;
+Ã©&#13;
+acompanhado&#13;
+de&#13;
+uma&#13;
+reflexÃ£o&#13;
+sobre&#13;
+a&#13;
+definiÃ§Ã£o&#13;
+de&#13;
+uma&#13;
+tal&#13;
+instituiÃ§Ã£o,&#13;
+da&#13;
+tipologia&#13;
+da&#13;
+documentaÃ§Ã£o&#13;
+existente&#13;
+para&#13;
+o&#13;
+seu&#13;
+estudo,&#13;
+assim&#13;
+como&#13;
+de&#13;
+um&#13;
+conjunto&#13;
+de&#13;
+anexos&#13;
+que&#13;
+pretendem&#13;
+recensear&#13;
+a&#13;
+informaÃ§Ã£o&#13;
+disponÃ­vel&#13;
+sobre&#13;
+o&#13;
+assunto.</dc:description>
+<dc:description>The&#13;
+present&#13;
+paper&#13;
+aims&#13;
+at&#13;
+characterizing&#13;
+the&#13;
+growing&#13;
+alienation&#13;
+of&#13;
+the&#13;
+royal&#13;
+patronage&#13;
+in&#13;
+the&#13;
+diocese&#13;
+of&#13;
+Lisbon&#13;
+during&#13;
+the&#13;
+medieval&#13;
+period.&#13;
+This&#13;
+is&#13;
+accompanied&#13;
+by&#13;
+a&#13;
+reflection&#13;
+on&#13;
+the&#13;
+definition&#13;
+of&#13;
+such&#13;
+an&#13;
+institution,&#13;
+the&#13;
+typology&#13;
+of&#13;
+existing&#13;
+documentation&#13;
+for&#13;
+its&#13;
+study,&#13;
+as&#13;
+well&#13;
+as&#13;
+a&#13;
+set&#13;
+of&#13;
+attachments&#13;
+intended&#13;
+to&#13;
+summarize&#13;
+the&#13;
+information&#13;
+available&#13;
+on&#13;
+the&#13;
+subject.</dc:description>
+<dc:date>2014-10-03T14:47:49Z</dc:date>
+<dc:date>2014-10-03T14:47:49Z</dc:date>
+<dc:date>2013</dc:date>
+<dc:type>article</dc:type>
+<dc:identifier>1647-Â­â&#128;&#144;6344</dc:identifier>
+<dc:identifier>http://hdl.handle.net/10362/13183</dc:identifier>
+<dc:language>por</dc:language>
+<dc:relation>http://online.flipbuilder.com/sbdk/fqnf/</dc:relation>
+<dc:rights>openAccess</dc:rights>
+<dc:publisher>Centro de Estudos HistÃ³ricos, Universidade Nova de Lisboa</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <resumptionToken completeListSize="8722" cursor="87"></resumptionToken>
     </ListRecords>
 </OAI-PMH>
