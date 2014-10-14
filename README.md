@@ -10,9 +10,10 @@ Project to develop a suite that enables to extract the OAI metadata and search o
 - [ ] Enable document download, having identifier
 
 ###Team composed by:
-- Project manager and Developer: Carlos Pinto Machado(AAMaster)
-- Developer : Miguel Vieira Rodrigues (miguelvrr)
+- Project manager and Developer: Carlos Pinto Machado([AAMaster](https://github.com/AAMaster))
+- Developer : Miguel Vieira Rodrigues ([miguelvrr](https://github.com/miguelvrr))
 - Developer : Mário Bello
+- Developer : Luís Duarte
 
 ###Project Status: 
 - Development of third version of extractor
