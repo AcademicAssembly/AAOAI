@@ -24,6 +24,12 @@ Proposal of data schema for storage
     - Why not?
         - Mode independent of extraction would give more liberty for search Engine.
 
+###Custom Schema
+    Inside a folder with community name
+    JSON:
+        - Name of Record
+        - Extra Info(To be developed)
+
 ###Status: On deliberation
 
 #####Proposed by : [AAMaster](https://github.com/AAMaster)
