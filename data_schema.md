@@ -27,7 +27,7 @@ Proposal of data schema for storage
 ###Custom Schema
 Inside a folder with community name
 
--JSON:
+- JSON:
     - Name of Record
     - Extra Info(To be developed)
 
