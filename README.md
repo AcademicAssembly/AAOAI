@@ -1,5 +1,5 @@
-Project AAOAI
-=============
+Project AA OAI
+==============
 
 Project to develop a suite that enables to extract the OAI metadata and search on it.
 
