@@ -1,4 +1,4 @@
-Proposal for data schema for storage
+Proposal of data schema for storage
 ====================================
 
 ### Actual State:
