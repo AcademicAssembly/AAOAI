@@ -1,7 +1,8 @@
-Project AA OAI
+Project AIM
 ==============
 
 Project to develop a suite that enables to extract the OAI metadata and search on it.
+It's name is AIM(Academically Interesting Metadata extractor)
 
 ###The requirements and objectives or this project are:
 - [x] Develop a metadata extractor based on an OAI url.
