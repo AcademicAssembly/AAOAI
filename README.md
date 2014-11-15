@@ -1,5 +1,5 @@
-Project AIM
-==============
+Project AIM OAI
+===============
 
 Project to develop a suite that enables to extract the OAI metadata and search on it.
 It's name is AIM OAI(Academic Interesting Metadata extractor on Open Access Iniciative)
