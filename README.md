@@ -11,10 +11,8 @@ It's name is AIM OAI(Academic Interesting Metadata extractor on Open Access Inic
 - [ ] Enable document download, having identifier
 
 ###Team composed by:
-- Project manager and Developer: Carlos Pinto Machado([AAMaster](https://github.com/AAMaster))
+- Project manager and Developer: Carlos Pinto Machado(at the time [AAMaster](https://github.com/AAMaster))
 - Developer : Miguel Vieira Rodrigues ([miguelvrr](https://github.com/miguelvrr))
-- Developer : Mário Bello
-- Developer : Luís Duarte
 
 ###Project Status: 
 - Development of third version of extractor
